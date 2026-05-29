@@ -1,22 +1,22 @@
 {
     "domain": "sports.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "요가 및 필라테스",
+        "웨이트 트레이닝",
+        "구기 종목"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang sports items."
+        "요가 및 필라테스": {
+            "topic": "Yoga mats, foam rollers, resistance bands.",
+            "role": "Yoga equipment expert."
         },
-        "수유/이유식": {
-            "topic": "sports bottle sterilizers, sports food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "웨이트 트레이닝": {
+            "topic": "Dumbbells, kettlebells, weightlifting belts.",
+            "role": "Fitness gear reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "구기 종목": {
+            "topic": "Tennis rackets, basketballs, badminton sets.",
+            "role": "Sports equipment curator."
         }
     }
 }
